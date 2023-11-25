@@ -85,7 +85,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/korail.PNG"), url("../../images/korail.PNG");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -129,13 +129,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #8cd1a8;
+		color: #52b3da;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent !important;
-			color: #8cd1a8 !important;
+			color: #52b3da !important;
 			text-decoration: none;
 		}
 
@@ -2657,7 +2657,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cd1a8;
+			background-color: #52b3da;
 			border: 0;
 			box-shadow: none;
 			color: #ffffff !important;
